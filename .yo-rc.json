@@ -45,7 +45,10 @@
     "clientThemeVariant": "",
     "reactive": false,
     "entities": ["Appointment", "Manager", "Company", "Bank", "Adviser"],
-    "lastLiquibaseTimestamp": 1631529365000
+    "lastLiquibaseTimestamp": 1631529365000,
+    "herokuAppName": "bankappointment",
+    "herokuDeployType": "git",
+    "herokuJavaVersion": "11"
   },
   "git-provider": "GitHub",
   "git-company": "dame620",
