@@ -109,6 +109,7 @@
   },
   "defaultProject": "baamtuappointmentwithpermissionsmaven",
   "cli": {
+    "analytics": false,
     "packageManager": "npm"
   }
 }
